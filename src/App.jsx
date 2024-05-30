@@ -10,7 +10,6 @@ function App() {
 
   
   async function handleSearch(){
-   // /json/
 
    if(input === ''){
     alert("Preencha com algum cep!")
